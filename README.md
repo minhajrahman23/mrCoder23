@@ -10,18 +10,18 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 📌I am always active on the internet. I will try my best efforts to fulfill your wish. I confide that you will be satisfied. So, never hesitate to make the best use of my skill and knowledge in order to complete a project successfully.
 
 # 👨‍💻 Skills & Experiance:
-⏩ Hypertext markup language (HTML / HTML5)
-⏩ Cascading Style Sheet (CSS / CSS3) 
-⏩ JavaScript or ES6 / ECMAScript 6 
-⏩ jQuery 
-⏩ Bootstrap / Bootstrap 4 / Bootstrap 5 
-⏩ PHP 
-⏩ MySQL 
-⏩ Expert to build in CMS Websites ( like WordPress, Drupal, Joomla, Squarespace, Weebly, Wix, and so on .) 
-⏩ Master in building a WooCommerce & E-commerce website 
-⏩ Master in building a dynamic website 
-⏩ Motivating consumers to take interest in the project 
-⏩ Making an understandable design
+✅ Hypertext markup language (HTML / HTML5) <br>
+✅ Cascading Style Sheet (CSS / CSS3) 
+✅ JavaScript or ES6 / ECMAScript 6 
+✅ jQuery 
+✅ Bootstrap / Bootstrap 4 / Bootstrap 5 
+✅ PHP 
+✅ MySQL 
+✅ Expert to build in CMS Websites ( like WordPress, Drupal, Joomla, Squarespace, Weebly, Wix, and so on .) 
+✅ Master in building a WooCommerce & E-commerce website 
+✅ Master in building a dynamic website 
+✅ Motivating consumers to take interest in the project 
+✅ Making an understandable design
         
 # ADDITIONAL INFORMATION:        
 - 🔭 I’m currently working on Web Development & WordPress. 
