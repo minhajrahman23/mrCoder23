@@ -11,16 +11,16 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 # 👨‍💻 Skills & Experiance:
 ✅ Hypertext markup language (HTML / HTML5) <br>
-✅ Cascading Style Sheet (CSS / CSS3) 
-✅ JavaScript or ES6 / ECMAScript 6 
-✅ jQuery 
-✅ Bootstrap / Bootstrap 4 / Bootstrap 5 
-✅ PHP 
-✅ MySQL 
-✅ Expert to build in CMS Websites ( like WordPress, Drupal, Joomla, Squarespace, Weebly, Wix, and so on .) 
-✅ Master in building a WooCommerce & E-commerce website 
-✅ Master in building a dynamic website 
-✅ Motivating consumers to take interest in the project 
+✅ Cascading Style Sheet (CSS / CSS3)  <br>
+✅ JavaScript or ES6 / ECMAScript 6    <br>
+✅ jQuery  <br>
+✅ Bootstrap / Bootstrap 4 / Bootstrap 5  <br>
+✅ PHP  <br>
+✅ MySQL  <br>
+✅ Expert to build in CMS Websites ( like WordPress, Drupal, Joomla, Squarespace, Weebly, Wix, and so on .)  <br>
+✅ Master in building a WooCommerce & E-commerce website  <br>
+✅ Master in building a dynamic website  <br>
+✅ Motivating consumers to take interest in the project  <br>
 ✅ Making an understandable design
         
 # ADDITIONAL INFORMATION:        
