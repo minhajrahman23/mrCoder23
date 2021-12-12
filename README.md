@@ -9,7 +9,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 📌I am always active on the internet. I will try my best efforts to fulfill your wish. I confide that you will be satisfied. So, never hesitate to make the best use of my skill and knowledge in order to complete a project successfully.
 
-# Skills:
+# 👨‍💻 Skills & Experiance:
 ⏩ Hypertext markup language (HTML / HTML5)
 ⏩ Cascading Style Sheet (CSS / CSS3) 
 ⏩ JavaScript or ES6 / ECMAScript 6 
