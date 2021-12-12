@@ -21,7 +21,8 @@ Skills: ⏩ Hypertext markup language (HTML / HTML5)
         ⏩ Master in building a dynamic website 
         ⏩ Motivating consumers to take interest in the project 
         ⏩ Making an understandable design
-
+        
+ADDITIONAL INFORMATION:        
 - 🔭 I’m currently working on Web Development & WordPress. 
 - 🌱 I’m currently learning CSS Frameworks & Advanced JS. 
 - 👯 I’m looking to collaborate on Github. 
