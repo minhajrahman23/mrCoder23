@@ -50,13 +50,11 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23)   
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mrCoder23)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23)  
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mrCoder23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrCoder23" /></a><a href="https://ko-fi.com/mrCoder23"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrCoder23" /></a></p><br><br>
