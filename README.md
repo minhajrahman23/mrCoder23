@@ -9,7 +9,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 📌I am always active on the internet. I will try my best efforts to fulfill your wish. I confide that you will be satisfied. So, never hesitate to make the best use of my skill and knowledge in order to complete a project successfully.
 
-# 👨‍💻 Skills & Experience:
+## 👨‍💻 Skills & Experience:
 ✅ Hypertext markup language (HTML / HTML5) <br>
 ✅ Cascading Style Sheet (CSS / CSS3)  <br>
 ✅ JavaScript or ES6 / ECMAScript 6    <br>
@@ -23,7 +23,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ✅ Motivating consumers to take interest in the project  <br>
 ✅ Making an understandable design
         
-# Work:        
+## Work:        
 - 🔭 I’m currently working on Web Development & WordPress. 
 - 🌱 I’m currently learning CSS Frameworks & Advanced JS. 
 - 👯 I’m looking to collaborate on Github. 
@@ -33,7 +33,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 - 😄 Pronouns: He / Him. 
 - ⚡ Fun fact: I think, I'm the changer of "Future Technology". 
 
-# 🔗 Connect with me!
+## 🔗 Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrCoder23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrCoder23/)  
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
