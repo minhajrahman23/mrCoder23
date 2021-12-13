@@ -42,7 +42,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 ### 🏆 Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=cobalt)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🔗 Connect with me!
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
@@ -57,9 +57,9 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=tokyonight)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=cobalt)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=cobalt)
    
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23&theme=tokyonight)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23&theme=cobalt)  
 
 ![GitHub metrics](https://metrics.lecoq.io/mrCoder23)  
 
