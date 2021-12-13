@@ -57,7 +57,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=algolia)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=javascript)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=algolia)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=vision-friendly-dark)
    
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
