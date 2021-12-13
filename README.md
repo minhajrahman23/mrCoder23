@@ -23,7 +23,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ✅ Motivating consumers to take interest in the project  <br>
 ✅ Making an understandable design
         
-### 💯 Work:        
+### 👨‍💻 Work:        
 - 🔭 I’m currently working on Web Development & WordPress. 
 - 🌱 I’m currently learning CSS Frameworks & Advanced JS. 
 - 👯 I’m looking to collaborate on Github. 
