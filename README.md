@@ -63,6 +63,19 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=great-gatsby)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=midnight-purple)
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
+3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+<!--END_SECTION:activity-->
+
+</details>
    
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
