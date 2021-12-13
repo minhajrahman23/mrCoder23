@@ -42,7 +42,8 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 ### 🏆 Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh&row=1&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ### 🔗 Connect with me!
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
@@ -67,7 +68,6 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 <p><a href="https://www.buymeacoffee.com/mrCoder23"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mrCoder23" /></a><a href="https://ko-fi.com/mrCoder23"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mrCoder23" /></a></p><br><br>
 
 
-https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true
 
 
 
