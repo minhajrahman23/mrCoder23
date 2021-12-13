@@ -42,7 +42,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 ### 🏆 Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh&row=1&column=8&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🔗 Connect with me!
