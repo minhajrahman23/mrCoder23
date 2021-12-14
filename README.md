@@ -69,7 +69,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### 📧 For Business Inquiries:
 #### ✅ ► minhajurrahman232003@gmail.com
 
-###🏻‍⚖️ GitHub metrics
+### GitHub metrics 📐:
 ![GitHub metrics](https://metrics.lecoq.io/mrCoder23)  
 
 <h3 align="left">🙏 Support:</h3>
