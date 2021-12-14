@@ -1,6 +1,6 @@
 ![Frontend Web Developer || WordPress Specialist]
 
-<img src="https://media.giphy.com/media/8LBjcVhopVwSmwpauR/giphy.gif" alt="JS Typewriter Effect About Me"> 
+<img src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me"> 
 
 ### Hi there 👋, This is Minhajur Rahman 
 #### Frontend Web Developer || WordPress Specialist
