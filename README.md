@@ -63,8 +63,10 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### GitHub Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCoder23&show_icons=true&count_private=true&theme=great-gatsby)  
 
+### GitHub Streak Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mrCoder23&theme=midnight-purple)
-   
+ 
+### 📈 GitHub Activity Graph: 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
 ### 📧 For Business Inquiries:
