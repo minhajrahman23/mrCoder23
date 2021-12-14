@@ -46,7 +46,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=batazor&theme=gruvbox&row=1&column=8&no-frame=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=gruvbox&row=1&column=8&no-frame=true)
 
 ### 🔗 Connect with me:
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
