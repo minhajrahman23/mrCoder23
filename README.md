@@ -48,6 +48,15 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=batazor&theme=gruvbox&row=1&column=8&no-frame=true)
 
+- uses: lowlighter/metrics@latest
+  with:
+    # ... other options
+    plugin_skyline: yes
+    plugin_skyline_year: 0            # Set to 0 to display current year
+    plugin_skyline_frames: 60         # Use 60 frames (half-loop)
+    plugin_skyline_quality: 0.5       # Set image quality
+    plugin_skyline_compatibility: yes # Support additional browsers (⚠️ increases file size and reduce optimization)
+
 
 ### 🔗 Connect with me:
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
