@@ -7,6 +7,9 @@ Frontend Web Developer || WordPress Specialist
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
