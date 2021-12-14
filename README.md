@@ -1,4 +1,4 @@
-[Frontend Web Developer || WordPress Specialist]
+Frontend Web Developer || WordPress Specialist
 
  <img style="width:100%; height:350px;" src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me">
 
