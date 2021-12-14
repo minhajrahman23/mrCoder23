@@ -66,6 +66,8 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
    
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
+📧 For Business Inquiries:
+
 ![GitHub metrics](https://metrics.lecoq.io/mrCoder23)  
 
 <h3 align="left">🙏 Support:</h3>
