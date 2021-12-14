@@ -1,4 +1,4 @@
-![Frontend Web Developer || WordPress Specialist](https://media-exp1.licdn.com/dms/image/C4E16AQE1G-65u7yMwg/profile-displaybackgroundimage-shrink_200_800/0/1639274559281?e=1645056000&v=beta&t=0S2rRYP8A5412Q0Oy0JJw_XtUEMAC97oGjQ5nsil8KI)
+![Frontend Web Developer || WordPress Specialist]
 
 <img src="https://media.giphy.com/media/8LBjcVhopVwSmwpauR/giphy.gif" alt="JS Typewriter Effect About Me"> 
 
