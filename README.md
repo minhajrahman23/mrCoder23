@@ -67,7 +67,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mrCoder23)  
 
 ### 📧 For Business Inquiries:
-✅ ► minhajurrahman232003@gmail.com
+#### ✅ ► minhajurrahman232003@gmail.com
 
 ![GitHub metrics](https://metrics.lecoq.io/mrCoder23)  
 
