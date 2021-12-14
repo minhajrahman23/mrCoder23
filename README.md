@@ -1,6 +1,6 @@
 ![Frontend Web Developer || WordPress Specialist](https://media-exp1.licdn.com/dms/image/C4E16AQE1G-65u7yMwg/profile-displaybackgroundimage-shrink_200_800/0/1639274559281?e=1645056000&v=beta&t=0S2rRYP8A5412Q0Oy0JJw_XtUEMAC97oGjQ5nsil8KI)
 
-
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/8LBjcVhopVwSmwpauR" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8LBjcVhopVwSmwpauR">via GIPHY</a></p>
 
 ### Hi there 👋, This is Minhajur Rahman 
 #### Frontend Web Developer || WordPress Specialist
