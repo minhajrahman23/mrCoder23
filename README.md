@@ -6,7 +6,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
 
-<a href="https://github.com/mrCoder23/github-readme-stats">
+<a href="https://github.com/mrCoder23/mrCoder23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=github-readme-stats&theme=buefy" />
 </a>
 
