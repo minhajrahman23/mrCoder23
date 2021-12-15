@@ -27,10 +27,10 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ✅ Master in building a dynamic website  <br>
 ✅ Motivating consumers to take interest in the project  <br>
 ✅ Making an understandable design
-        
-### 👨‍💻 Work:        
+
 <img align="right" width="60px" height="50px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Hard Working"> 
-</p> 
+
+### 👨‍💻 Work:        
 - 🔭 I’m currently working on Web Development & WordPress. 
 - 🌱 I’m currently learning CSS Frameworks & Advanced JS. 
 - 👯 I’m looking to collaborate on Github. 
