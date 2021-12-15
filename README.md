@@ -68,6 +68,9 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 ### 📈 GitHub Stats:
