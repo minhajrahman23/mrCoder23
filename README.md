@@ -8,8 +8,8 @@
 
 #### Top Repositories
 
-<a href="https://mrcoder23.github.io/mrCoder23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=mrcoder23.github.io/mrCoder23&theme=buefy" />
+<a href="https://github.com/mrCoder23/mrCoder23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=mrcoder23.github.io&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
