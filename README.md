@@ -6,6 +6,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
 Thank you for visiting my profile. I'm a specialist in the field of both website development and WordPress. I am working in both fields for more than four years. Also, have gathered vast knowledge about using coding, designing, markup languages, and other things that are related to this sector. Also, I never give up and constantly learn new skills of coding and browser compatibility and gather more knowledge to be the best version of myself. I have created hundreds of websites like business, restaurant, construction, shop, school, IT, WordPress / E-Commerce/ Woo-Commerce and others. However, I can create any type of website professionally.
