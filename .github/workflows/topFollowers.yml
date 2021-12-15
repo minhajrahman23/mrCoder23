@@ -1,7 +1,7 @@
 name: Get Top Followers
   
  on:
-  
+  push:
   branches:
    - master
   schedule:
@@ -19,7 +19,7 @@ name: Get Top Followers
    - name: Install requests
     run: pip install requests
    - name: Update README
-    run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+    run: python getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
    - name: Commit changes
     run: |
      git config --local user.email "action@github.com"
