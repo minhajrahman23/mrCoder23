@@ -67,7 +67,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 </a>
 
 ### Most Used languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23&layout=compact)
 
  ### My followers:
  
