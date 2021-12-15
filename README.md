@@ -9,7 +9,7 @@
 #### Top Repositories:
 
 <a href="https://github.com/mrCoder23/mrCoder23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=mrcoder23&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=mrcoder23&theme=juicyfresh" />
 </a>
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
