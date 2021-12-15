@@ -1,6 +1,6 @@
  <img style="width:100%; height:320px; padding:320px;" src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me"><br>
 
-### Hi <img src="https://github.com/mrCoder23/mrCoder23/blob/main/Wave.gif" alt="Wave GIF" height="55px" width="55px"> there, This is Minhajur Rahman. 
+### Hi <img align="Bottom" src="https://github.com/mrCoder23/mrCoder23/blob/main/Wave.gif" alt="Wave GIF" height="55px" width="55px"> there, This is Minhajur Rahman. 
 
 #### Frontend Web Developer || WordPress Specialist
 
