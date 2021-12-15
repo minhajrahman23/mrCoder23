@@ -28,7 +28,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ✅ Motivating consumers to take interest in the project  <br>
 ✅ Making an understandable design
 
-<img align="right" width="320px" height="250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Hard Working"> 
+<img align="right" width="350px" height="250px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Hard Working"> 
 
 ### 👨‍💻 Work:        
 - 🔭 I’m currently working on Web Development & WordPress. 
