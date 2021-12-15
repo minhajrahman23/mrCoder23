@@ -6,8 +6,13 @@
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
 
-<a href="https://github.com/mrCoder23/mrCoder23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=github-readme-stats&theme=buefy" />
+#### Top Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
 </a>
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
