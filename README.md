@@ -29,7 +29,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ✅ Making an understandable design
         
 ### 👨‍💻 Work:        
-<img align="right" width="60px"; height="50px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Hard Working"> 
+<img align="right" width="60px" height="50px" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" alt="Hard Working"> 
 </p> 
 - 🔭 I’m currently working on Web Development & WordPress. 
 - 🌱 I’m currently learning CSS Frameworks & Advanced JS. 
