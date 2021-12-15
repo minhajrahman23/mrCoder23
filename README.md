@@ -63,6 +63,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### Most Used languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
 
+### Wakatime Stats:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
 
 
