@@ -32,4 +32,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@b007e7b818e33b04afd056e4c4b57ba917145d7a
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
