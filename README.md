@@ -1,4 +1,4 @@
- <img style="width:80%; height:350px;" src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me">
+ <img style="width:80%; height:300px; margin:0 auto;" src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me">
 
 ### Hi there <img style="width:10px; height:10px;" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Hand Typing">, This is Minhajur Rahman 
 #### Frontend Web Developer || WordPress Specialist
