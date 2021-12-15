@@ -1,6 +1,6 @@
  <img style="width:100%; height:320px; padding:320px;" src="https://media.giphy.com/media/r5M0FNZONbdXdFoMpb/giphy.gif" alt="JS Typewriter Effect About Me">
 
-### Hi there <img style="width:10px; height:10px;" src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" alt="Hand Typing">, This is Minhajur Rahman 
+### Hi there <img style="width:10px; height:10px;" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hand Typing">, This is Minhajur Rahman 
 #### Frontend Web Developer || WordPress Specialist
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
