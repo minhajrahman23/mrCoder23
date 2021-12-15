@@ -18,7 +18,7 @@ jobs:
           SHOW_PROJECTS: "True"
           LOCALE: "True"
           COMMIT_BY_ME: "True"
-          CCOMMIT_MESSAGE: "True"
+          COMMIT_MESSAGE: "True"
           SHOW_UPDATE_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_COMMIT: "True"
