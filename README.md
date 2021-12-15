@@ -66,7 +66,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### Wakatime Stats:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=github-readme-stats)](https://github.com/mrCoder23/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
