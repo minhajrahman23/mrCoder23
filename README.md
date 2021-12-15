@@ -2,7 +2,7 @@
 
 ### <img style="width:60px; height:50px;" src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" alt="Hand Typing"> there, This is Minhajur Rahman. 
 #### Frontend Web Developer || WordPress Specialist
-
+[![Waka Readme](https://github.com/mrCoder23/mrCoder23/actions/workflows/blank.yml/badge.svg)](https://github.com/mrCoder23/mrCoder23/actions/workflows/blank.yml)
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
