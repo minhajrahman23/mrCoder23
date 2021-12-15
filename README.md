@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-
+[![Visits Badge](https://badges.pufler.dev/visits/mrCoder23/git-badges)](https://badges.pufler.dev)
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
