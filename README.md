@@ -56,7 +56,7 @@ HTML         2 mins          ██████████░░░░░░░
 <a href="https://github.com/mrCoder23/mrCoder23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrCoder23&repo=mrcoder23&theme=juicyfresh" />
 </a>
-<br><br><br>
+<br><br>
 <p align="left"> <a href="https://twitter.com/mrcoder23" target="blank"><img src="https://img.shields.io/twitter/follow/mrcoder23?logo=twitter&style=for-the-badge" alt="mrcoder23" /></a> </p>
 
 ### 📛 Github Badges:
