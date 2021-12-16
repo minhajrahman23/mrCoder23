@@ -4,8 +4,8 @@
 
 #### Frontend Web Developer || WordPress Specialist
 
-![Profile views](https://gpvc.arturio.dev/mrCoder23)  
-<img src="https://img.shields.io/github/followers/mrCoder23?logo=github" />
+![Profile views](https://gpvc.arturio.dev/mrCoder23) ![Github Followers](https://img.shields.io/github/followers/mrCoder23?label=Followers&logo=github&style=flat-square)
+![Github Forks](https://img.shields.io/github/forks/mrCoder23/mrCoder23?style=flat-square) ![Github Code Size](https://img.shields.io/github/languages/code-size/mrCoder23/mrCoder23?style=flat-square)
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
