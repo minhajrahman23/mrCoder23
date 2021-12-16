@@ -4,9 +4,7 @@
 
 #### Frontend Web Developer || WordPress Specialist
 
-![Profile views](https://gpvc.arturio.dev/mrCoder23) ![Github Followers](https://img.shields.io/github/followers/mrCoder23?label=Followers&logo=github&style=flat-square)
-![Github Forks](https://img.shields.io/github/forks/mrCoder23/mrCoder23?style=flat-square) ![Github Code Size](https://img.shields.io/github/languages/code-size/mrCoder23/mrCoder23?style=flat-square)
-
+<img src="https://gpvc.arturio.dev/mrCoder23" alt="Profile views"> <img src="https://img.shields.io/github/followers/mrCoder23?label=Followers&logo=github&style=flat-square" alt="Github Followers"> <img src="https://img.shields.io/github/forks/mrCoder23/mrCoder23?style=flat-square" alt="Github Forks"> <img src="https://img.shields.io/github/languages/code-size/mrCoder23/mrCoder23?style=flat-square" alt="Github Code Size">  <img src="https://img.shields.io/youtube/channel/subscribers/UCNUDO7j5elolT83yd5Wk3Ag" alt="Youtube Subscribers">
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
 Thank you for visiting my profile. I'm a specialist in the field of both website development and WordPress. I am working in both fields for more than four years. Also, have gathered vast knowledge about using coding, designing, markup languages, and other things that are related to this sector. Also, I never give up and constantly learn new skills of coding and browser compatibility and gather more knowledge to be the best version of myself. I have created hundreds of websites like business, restaurant, construction, shop, school, IT, WordPress / E-Commerce/ Woo-Commerce and others. However, I can create any type of website professionally.
