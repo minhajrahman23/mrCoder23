@@ -92,7 +92,10 @@ HTML         2 mins          ██████████░░░░░░░
 # 🚧 Todoist Stats:
 
 <!-- TODO-IST:START -->
-
+🏆  700 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
 
 ### 📈 GitHub Stats:
