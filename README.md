@@ -89,7 +89,7 @@ HTML         2 mins          ██████████░░░░░░░
 ### 📈 Wakatime Stats:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
 
-### 🚧 Todoist Stats:
+# 🚧 Todoist Stats:
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
