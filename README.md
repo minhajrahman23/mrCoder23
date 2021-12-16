@@ -5,6 +5,7 @@
 #### Frontend Web Developer || WordPress Specialist
 
 ![Profile views](https://gpvc.arturio.dev/mrCoder23)  
+<img src="https://img.shields.io/github/followers/mrCoder23?logo=github" />
 
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
