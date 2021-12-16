@@ -92,6 +92,7 @@ HTML         2 mins          ██████████░░░░░░░
 # 🚧 Todoist Stats:
 
 <!-- TODO-IST:START -->
+
 <!-- TODO-IST:END -->
 
 ### 📈 GitHub Stats:
