@@ -14,20 +14,10 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          API_BASE_URL: https://wakapi.dev/api
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
           COMMIT_MESSAGE: Updated the Readme
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          LOCALE: true
-          COMMIT_BY_ME: true
-          SHOW_UPDATE_DATE: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_LANGUAGE: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_SHORT_INFO: true
-          SHOW_LOC_CHART: true
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+           SHOW_TIME: true
+          
