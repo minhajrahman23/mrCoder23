@@ -21,7 +21,6 @@ jobs:
           SHOW_PROJECTS: true
           LOCALE: true
           COMMIT_BY_ME: true
-          COMMIT_MESSAGE: true
           SHOW_UPDATE_DATE: true
           SHOW_LINES_OF_CODE: true
           SHOW_COMMIT: true
