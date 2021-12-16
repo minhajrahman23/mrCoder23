@@ -80,7 +80,8 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   3 mins          █████████████▒░░░░░░░░░░░   53.73 % 
+HTML         2 mins          ██████████░░░░░░░░░░░░░░░   39.43 % 
 ```
 <!--END_SECTION:waka-->
 
