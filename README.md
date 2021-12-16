@@ -49,6 +49,12 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=mrCoder23&theme=juicyfresh)
 
+### ✨ My followers:
+ 
+ <!--START_SECTION:top-followers--> 
+
+ <!--END_SECTION:top-followers-->
+
 ### 🔗 Connect with me:
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
 <a href="https://twitter.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcoder23" height="30" width="40" /></a>
@@ -68,12 +74,6 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 ### Most Used Languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrCoder23&layout=compact&theme=juicyfresh&hide_border=true)
-
- ### ✨ My followers:
- 
- <!--START_SECTION:top-followers--> 
-
- <!--END_SECTION:top-followers-->
 
 ### 📈 Wakatime Stats:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
