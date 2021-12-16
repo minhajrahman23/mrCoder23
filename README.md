@@ -78,6 +78,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### 📈 Wakatime Stats:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mrCoder23)](https://github.com/mrCoder23/github-readme-stats)
 
+### 📊 Monthly coding time
 <!--START_SECTION:waka-->
 ```text
 Week: 09 December, 2021 - 15 December, 2021
