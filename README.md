@@ -78,7 +78,7 @@ HTML         2 mins          ██████████░░░░░░░
 <a href="https://twitter.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcoder23" height="30" width="40" /></a>
 <a href="https://instagram.com/mrcoder232003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrcoder232003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrcoder23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mr coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr coder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNUDO7j5elolT83yd5Wk3Ag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mr coder" height="30" width="40" /></a>
  
 ### Languages and Tools:
 <p align="left"> 
