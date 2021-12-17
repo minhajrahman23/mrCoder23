@@ -70,7 +70,7 @@ HTML         2 mins          ██████████░░░░░░░
 
  <!--END_SECTION:top-followers-->
 <br>
-<h3> 🔗 Connect with me: <h3>
+<h3>🔗Connect with me:</h3>
 <a href="https://fb.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mrcoder23" height="30" width="40" /></a>
 <a href="https://twitter.com/mrcoder23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcoder23" height="30" width="40" /></a>
 <a href="https://instagram.com/mrcoder232003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrcoder232003" height="30" width="40" /></a>
