@@ -4,7 +4,7 @@
 
 #### Frontend Web Developer || WordPress Specialist
 
-<img src="https://gpvc.arturio.dev/mrCoder23" alt="Profile views"> <img src="https://img.shields.io/github/followers/mrCoder23?label=Followers&logo=github&style=flat-square" alt="Github Followers"> <img src="https://img.shields.io/github/forks/mrCoder23/mrCoder23?style=flat-square" alt="Github Forks"> <img src="https://img.shields.io/github/languages/code-size/mrCoder23/mrCoder23?style=flat-square" alt="Github Code Size"> <img src="https://img.shields.io/twitter/follow/mrCoder23" alt="Follow Twitter"> <img src="https://img.shields.io/youtube/channel/subscribers/UCNUDO7j5elolT83yd5Wk3Ag" alt="Youtube Subscribers">
+<img src="https://gpvc.arturio.dev/mrCoder23" alt="Profile views"> <img src="https://img.shields.io/github/followers/mrCoder23?label=Followers&logo=github&style=flat-square" alt="Github Followers"> <img src="https://img.shields.io/github/forks/mrCoder23/mrCoder23?style=flat-square" alt="Github Forks"> <img src="https://img.shields.io/github/languages/code-size/mrCoder23/mrCoder23?style=flat-square" alt="Github Code Size"> <img src="https://img.shields.io/twitter/follow/mrCoder23" alt="Follow Twitter"> <img src="https://img.shields.io/youtube/channel/views/UCNUDO7j5elolT83yd5Wk3Ag" alt="Youtube Views"> <img src="https://img.shields.io/youtube/channel/subscribers/UCNUDO7j5elolT83yd5Wk3Ag" alt="Youtube Subscribers">
 <br><br>
 <img style="width:100%; height:320px;" src="https://media.giphy.com/media/eyxurLyJhd72DuTIFj/giphy.gif" alt="mrCoder">
 
