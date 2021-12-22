@@ -44,7 +44,7 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2021 - 20 December, 2021
+Week: 15 December, 2021 - 21 December, 2021
 
 JavaScript   3 mins          █████████████▒░░░░░░░░░░░   53.73 % 
 HTML         2 mins          ██████████░░░░░░░░░░░░░░░   39.43 % 
