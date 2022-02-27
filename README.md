@@ -43,9 +43,11 @@ Thank you for visiting my profile. I'm a specialist in the field of both website
 ### 📊 Weeky coding time:
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 #### 🔝 Top Repositories:
